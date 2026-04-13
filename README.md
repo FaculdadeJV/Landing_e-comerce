@@ -80,7 +80,7 @@ O projeto utiliza uma paleta de cores **vermelho + azul neon** para transmitir e
 
 1. **Clone o repositório** (ou faça o download do arquivo `.html`):
    ```bash
-   git clone https://github.com/FaculdadeJV/GameTECH-Neon-Store.git
+   git clone https://github.com/FaculdadeJV/Landing_e-comerce.git
 
 ---
 
