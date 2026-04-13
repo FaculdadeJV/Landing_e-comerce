@@ -9,24 +9,20 @@ Uma landing page premium para uma loja gamer, desenvolvida com visual neon futur
 
 ## Screenshots
 
-> *Inserir aqui imagens do projeto final*
-
 - **Hero Section com vídeo do YouTube**  
-  (./print-login.png)
+  ![Hero Section](./print/hero.png)
 
 - **Super Ofertas da Semana**  
- (./print-login.png)
+  ![Ofertas](./print/ofertas.png)
 
 - **Seção Games**  
-  (./print-login.png)
+  ![Games](./print/games.png)
 
 - **Seção Setup & Conforto**  
-  (./print-login.png)
+  ![Setup](./print/setup.png)
 
 - **Seção Hardware & Performance**  
-  (./print-login.png)
-
----
+  ![Hardware](./print/hadware.png)
 
 ## Sobre o Projeto
 
